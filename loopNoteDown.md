@@ -45,8 +45,8 @@ foreach($ingredients as $key => $newIngredients) {
 `````
 <hr>
 
-<h2>última aula - foreach</h2>
 ````
+<h2>última aula - foreach</h2>
 <?php
 $ingredients = [
     'apple',
